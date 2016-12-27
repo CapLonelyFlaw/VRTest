@@ -1,52 +1,17 @@
 fileFormatVersion: 2
 guid: 0bcc1299a227cba44a70b3a68272b2b6
-timeCreated: 1482413932
+timeCreated: 1482853045
 licenseType: Pro
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: _cubesEnv.000_cubeRoomEnv.004
-    100002: _cubesEnv.001_cubeRoomEnv.008
-    100004: cubeRoomEnv
-    100006: //RootNode
-    100008: wallEnv.000_cubeRoomEnv.009
-    100010: wallEnv.001_cubeRoomEnv.010
-    100012: default
-    100014: roomWallEnv.000_cubeRoomEnv.012
-    100016: roomWallEnv.001_cubeRoomEnv.011
-    400000: _cubesEnv.000_cubeRoomEnv.004
-    400002: _cubesEnv.001_cubeRoomEnv.008
-    400004: cubeRoomEnv
-    400006: //RootNode
-    400008: wallEnv.000_cubeRoomEnv.009
-    400010: wallEnv.001_cubeRoomEnv.010
-    400012: default
-    400014: roomWallEnv.000_cubeRoomEnv.012
-    400016: roomWallEnv.001_cubeRoomEnv.011
-    2300000: _cubesEnv.000_cubeRoomEnv.004
-    2300002: _cubesEnv.001_cubeRoomEnv.008
-    2300004: cubeRoomEnv
-    2300006: wallEnv.000_cubeRoomEnv.009
-    2300008: wallEnv.001_cubeRoomEnv.010
-    2300010: default
-    2300012: roomWallEnv.000_cubeRoomEnv.012
-    2300014: roomWallEnv.001_cubeRoomEnv.011
-    3300000: _cubesEnv.000_cubeRoomEnv.004
-    3300002: _cubesEnv.001_cubeRoomEnv.008
-    3300004: cubeRoomEnv
-    3300006: wallEnv.000_cubeRoomEnv.009
-    3300008: wallEnv.001_cubeRoomEnv.010
-    3300010: default
-    3300012: roomWallEnv.000_cubeRoomEnv.012
-    3300014: roomWallEnv.001_cubeRoomEnv.011
-    4300000: _cubesEnv.000_cubeRoomEnv.004
-    4300002: _cubesEnv.001_cubeRoomEnv.008
-    4300004: cubeRoomEnv
-    4300006: wallEnv.000_cubeRoomEnv.009
-    4300008: wallEnv.001_cubeRoomEnv.010
-    4300010: default
-    4300012: roomWallEnv.000_cubeRoomEnv.012
-    4300014: roomWallEnv.001_cubeRoomEnv.011
+    100000: //RootNode
+    100002: default
+    400000: //RootNode
+    400002: default
+    2300000: default
+    3300000: default
+    4300000: default
   materials:
     importMaterials: 1
     materialName: 0
